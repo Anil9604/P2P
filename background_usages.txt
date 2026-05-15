@@ -1,0 +1,248 @@
+[
+  {
+    "file": "d:\\p2p\\src\\components\\NearbyActivitySheet.js",
+    "line": 193,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background,"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\AboutScreen.js",
+    "line": 94,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\AddBankScreen.js",
+    "line": 113,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\AddBankScreen.js",
+    "line": 156,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background,"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\BookRideScreen.js",
+    "line": 352,
+    "obj": "LIGHT_THEME",
+    "content": "backgroundColor: LIGHT_THEME.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\DeliveryPricingScreen.js",
+    "line": 201,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\EditProfileScreen.js",
+    "line": 163,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background,"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\EditProfileScreen.js",
+    "line": 225,
+    "obj": "theme.colors",
+    "content": "borderColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\HomeMapScreen.js",
+    "line": 99,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background,"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\HomeMapScreen.js",
+    "line": 159,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background,"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\LegalPoliciesScreen.js",
+    "line": 69,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\LegalPoliciesScreen.js",
+    "line": 119,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background,"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\LoginScreen.js",
+    "line": 205,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\MapActivityScreen.js",
+    "line": 39,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\MatchingEngineScreen.js",
+    "line": 252,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\OtpVerificationScreen.js",
+    "line": 244,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\ParcelDetailScreen.js",
+    "line": 530,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\ParcelDetailScreen.js",
+    "line": 533,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\ParcelDetailScreen.js",
+    "line": 693,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\ParcelDetailScreen.js",
+    "line": 770,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background,"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\ParcelDetailScreen.js",
+    "line": 814,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background,"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\ParcelsScreen.js",
+    "line": 173,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\PaymentMethodsScreen.js",
+    "line": 143,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\PersonalInformationScreen.js",
+    "line": 222,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\PostRouteScreen.js",
+    "line": 469,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\PrivacyPolicyScreen.js",
+    "line": 77,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\ProfileSetupScreen.js",
+    "line": 297,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\ReceiveParcelScreen.js",
+    "line": 266,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\ReceiveParcelScreen.js",
+    "line": 485,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background,"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\ReceiveParcelScreen.js",
+    "line": 516,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\ReceiveParcelScreen.js",
+    "line": 519,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background,"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\ReceiveParcelScreen.js",
+    "line": 639,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\SecurityCenterScreen.js",
+    "line": 193,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\SecurityCenterScreen.js",
+    "line": 360,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background,"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\SenderDashboardScreen.js",
+    "line": 311,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\SplashScreen.js",
+    "line": 113,
+    "obj": "styles",
+    "content": "<LinearGradient colors={[theme.colors.primary, theme.colors.accent]} style={styles.background}>"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\SupportScreen.js",
+    "line": 100,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\SupportScreen.js",
+    "line": 137,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background,"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\TrustScoreScreen.js",
+    "line": 200,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\WithdrawalSetupScreen.js",
+    "line": 80,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background"
+  },
+  {
+    "file": "d:\\p2p\\src\\screens\\WithdrawalSetupScreen.js",
+    "line": 200,
+    "obj": "theme.colors",
+    "content": "backgroundColor: theme.colors.background,"
+  }
+]

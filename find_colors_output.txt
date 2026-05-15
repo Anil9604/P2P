@@ -1,0 +1,108 @@
+BookingDetailPopup.bak.js:159:<LinearGradient colors={isRide ? ['#6366F1', '#4F46E5'] : ['#C4836A', '#A36B57']} style={styles.avatarGradient}>
+BookingDetailPopup.bak.js:241:<LinearGradient colors={['#10B981', '#059669']} style={styles.actionGradient}>
+BookingDetailPopup.js:159:<LinearGradient colors={isRide ? ['#6366F1', '#4F46E5'] : ['#C4836A', '#A36B57']} style={styles.avatarGradient}>
+BookingDetailPopup.js:241:<LinearGradient colors={['#10B981', '#059669']} style={styles.actionGradient}>
+ConfirmDialog.js:17:danger: { icon: 'error-outline', colors: ['#EF4444', '#DC2626'], shadow: '#EF4444' },
+ConfirmDialog.js:18:warning: { icon: 'warning-amber', colors: ['#F59E0B', '#D97706'], shadow: '#F59E0B' },
+ConfirmDialog.js:19:info: { icon: 'info-outline', colors: ['#3B82F6', '#2563EB'], shadow: '#3B82F6' }
+ConfirmDialog.js:84:colors={['#FFFFFF', '#F8FAFF']}
+ConfirmDialog.js:89:colors={config.colors}
+ConfirmDialog.js:116:colors={config.colors}
+LiveActivityButton.js:67:colors={['#EF4444', '#B91C1C']}
+NearbyActivitySheet.js:18:<LinearGradient colors={['#4A6741', '#6B8E60']} style={styles.itemAvatar}>
+NearbyActivitySheet.js:44:<LinearGradient colors={['#4A6741', '#5C8A53']} style={styles.actionBtnGrad} start={{ x: 0, y: 0 }} end={{ x: 1, y: 0 }}>
+NearbyActivitySheet.js:171:<LinearGradient colors={['#1E3A5F', '#2E6B8A']} style={styles.fullMapGrad} start={{ x: 0, y: 0 }} end={{ x: 1, y: 0 }}>
+OTPModal.js:96:<LinearGradient colors={['#1F2937', '#111827']} style={styles.lockIcon}>
+ParcelCard.js:26:<View style={[styles.statusChip, { backgroundColor: colors.bg }]}>
+ParcelCard.js:27:<Text style={[styles.statusText, { color: colors.text }]}>{statusLabel}</Text>
+ParcelDetailPopup.js:197:<LinearGradient colors={['#F72585', '#B5179E']} style={styles.avatarGradient}>
+ParcelDetailPopup.js:283:colors={['pending_approval', 'approved', 'accepted', 'picked_up', 'in_transit'].includes((parcel.status || '').toLowerCase()) ? ['#94A3B8', '#64748B'] : ['#F72585', '#B5179E']}
+Press3DButton.js:7:const Press3DButton = ({ onPress, title, colors, style, textStyle, icon }) => (
+Press3DButton.js:12:color={colors ? colors[1] + '80' : '#00000040'}
+Press3DButton.js:15:colors={colors || ['#1A1A1A', '#333']}
+RejectionPopup.js:51:colors={['#FFFFFF', '#F8FAFC']}
+RejectionPopup.js:60:colors={['#FEF2F2', '#FEE2E2']}
+RideDetailPopup.js:164:<LinearGradient colors={['#10B981', '#059669']} style={styles.avatar}>
+RideDetailPopup.js:300:colors={isDisabled ? ['#94A3B8', '#64748B'] : ['#10B981', '#059669']}
+SuccessDialog.js:17:success: { icon: 'check', colors: ['#10B981', '#059669'], shadow: '#10B981' },
+SuccessDialog.js:18:transit: { icon: 'local-shipping', colors: ['#F59E0B', '#D97706'], shadow: '#F59E0B' },
+SuccessDialog.js:19:delivered: { icon: 'celebration', colors: ['#6366F1', '#4338CA'], shadow: '#6366F1' },
+SuccessDialog.js:20:info: { icon: 'info-outline', colors: ['#3B82F6', '#2563EB'], shadow: '#3B82F6' },
+SuccessDialog.js:21:danger: { icon: 'error-outline', colors: ['#EF4444', '#DC2626'], shadow: '#EF4444' },
+SuccessDialog.js:22:warning: { icon: 'warning-amber', colors: ['#F59E0B', '#F59E0B'], shadow: '#F59E0B' }
+SuccessDialog.js:87:colors={['#FFFFFF', '#F8FAFF']}
+SuccessDialog.js:92:colors={config.colors}
+SuccessDialog.js:112:colors={['#1E293B', '#0F172A']}
+SuccessPopup.js:66:colors={['#FFF', '#F9FAFB']}
+SuccessPopup.js:71:colors={['#10B981', '#059669']}
+SuccessPopup.js:92:colors={['#111827', '#374151']}
+TravelerParcelPopup.js:106:<LinearGradient colors={['#6366F1', '#4F46E5']} style={styles.avatar}>
+TravelerParcelPopup.js:192:<LinearGradient colors={['#F8FAFF', '#F1F5F9']} style={styles.priceGradient}>
+TravelerParcelPopup.js:208:<LinearGradient colors={isAlreadyRequested ? ['#94A3B8', '#64748B'] : ['#6366F1', '#4F46E5']} style={styles.btnGradient}>
+TripDetailPopup.js:176:<LinearGradient colors={['#6366F1', '#4F46E5']} style={styles.avatar}>
+TripDetailPopup.js:293:colors={isDisabled ? ['#94A3B8', '#64748B'] : (isRideSharing ? ['#10B981', '#059669'] : ['#6366F1', '#4F46E5'])}
+theme.js:4:colors: {
+ActiveNearYouScreen.js:21:const avatarBg = colors[name.length % colors.length];
+ActiveNearYouScreen.js:93:<LinearGradient colors={trip.isRideShare ? ['#10B981', '#059669'] : ['#6366F1', '#4F46E5']} start={{
+AddBankScreen.js:93:<LinearGradient colors={['#1E3A5F', '#2E6B8A']} style={styles.gradient}>
+AddMoneyScreen.js:113:<LinearGradient colors={['#4A6741', '#3A5233']} style={styles.proceedBtn}>
+AvailableParcelsScreen.js:60:<LinearGradient colors={['#6366F1', '#4F46E5']} start={{
+BookRideScreen.js:181:<LinearGradient colors={theme.bgGradient} style={StyleSheet.absoluteFill} />
+BookRideScreen.js:313:<LinearGradient colors={theme.primaryGradient} style={styles.btnGradient} start={{
+ChatScreen.js:135:<LinearGradient colors={['#1A1A2E', '#16213E']} style={s.header}>
+ChatScreen.js:143:<LinearGradient colors={['#6366F1', '#8B5CF6']} style={s.avatar}>
+ChatScreen.js:240:<LinearGradient colors={text.trim() ? ['#6366F1', '#8B5CF6'] : ['#1E1E3A', '#1E1E3A']} style={s.sendBtnGradient}>
+ChatsListScreen.js:230:<LinearGradient colors={['#6366F1', '#8B5CF6']} style={s.avatar}>
+CreateParcelScreen.js:90:<LinearGradient colors={['#EEF2FF', '#E0E7FF']} style={styles.sheetIconBox}>
+CreateParcelScreen.js:97:<LinearGradient colors={['#ECFDF5', '#D1FAE5']} style={styles.sheetIconBox}>
+CreateParcelScreen.js:493:<LinearGradient colors={['#6366F1', '#4F46E5']} style={styles.heroIconBox}>
+CreateParcelScreen.js:620:<LinearGradient colors={['#EEF2FF', '#DDE4FF']} style={styles.emptyPhotoGradient}>
+CreateParcelScreen.js:651:<LinearGradient colors={['#F59E0B', '#D97706']} style={styles.tipIconCircle}>
+CreateParcelScreen.js:674:<LinearGradient colors={['#10B981', '#059669']} style={styles.totalPremiumCard}>
+CreateParcelScreen.js:685:<Press3DButton onPress={handleCreateParcel} title={editParcel ? 'Save Changes' : 'Create Parcel Request'} colors={['#1A1A1A', '#333']} icon={<MaterialIcons name={editParcel ? "check" : "bolt"} size={22} color="#FFF" />} />
+DeliverScreen.js:30:<LinearGradient colors={[color + '10', color + '05']} style={StyleSheet.absoluteFill} />
+DeliverScreen.js:304:<LinearGradient colors={['#1E293B', '#0F172A']} start={{
+DeliverScreen.js:514:<LinearGradient colors={['#FFFFFF', '#F8FAFF']} style={styles.modalGradient}>
+DeliverScreen.js:530:<LinearGradient colors={['#F0F4FF', '#E0E7FF']} style={styles.optionIconGradient}>
+DeliverScreen.js:544:<LinearGradient colors={['#ECFDF5', '#D1FAE5']} style={styles.optionIconGradient}>
+DeliveryManagementScreen.js:98:<LinearGradient colors={disabled ? ['#E2E8F0', '#CBD5E1'] : gradient} start={{
+EditProfileScreen.js:140:<LinearGradient colors={['#1E3A5F', '#2E6B8A']} start={{
+HomeScreen.js:514:<LinearGradient colors={gradient} style={styles.actionCardGradient}>
+HomeScreen.js:614:<LinearGradient colors={['#6366F1', '#4F46E5']} style={styles.liveButtonGradient}>
+HomeScreen.js:703:<LinearGradient colors={['#6366F1', '#4F46E5']} style={styles.headerGradient}>
+HomeScreen.js:847:<LinearGradient colors={['#F3F4F6', '#FFFFFF']} style={styles.emptyIconCircle}>
+LiveDeliveriesScreen.js:140:<LinearGradient colors={item.type === 'trip' ? ['#10B981', '#059669'] : ['#4361EE', '#6366F1']} style={styles.btnGradient}>
+MapActivityScreen.js:102:<LinearGradient colors={['#E5E7EB', '#F3F4F6']} style={StyleSheet.absoluteFill} />
+MatchingEngineScreen.js:122:<LinearGradient colors={['#1F2937', '#111827']} style={styles.hudCard}>
+MatchingEngineScreen.js:129:<LinearGradient colors={['#3B82F6', 'transparent']} style={styles.ringSegment} />
+MyParcelsScreen.js:352:{totalCount > 0 && <LinearGradient colors={['#6366F1', '#333']} start={{
+NotificationsScreen.js:117:<ScrollView style={styles.scroll} contentContainerStyle={styles.scrollContent} refreshControl={<RefreshControl refreshing={refreshing} onRefresh={onRefresh} colors={['#2563EB']} />}>
+ParcelActivityScreen.js:803:<LinearGradient colors={['#F9FAFB', '#F3F4F6']} style={styles.notifGradient}>
+PaymentMethodsScreen.js:63:<LinearGradient colors={['#1A1A1A', '#C4836A']} start={{
+PaymentProtectionScreen.js:70:<LinearGradient colors={['#4A6741', '#2E4228']} start={{
+PersonalInformationScreen.js:58:<LinearGradient colors={['#1A1A1A', '#333333']} style={StyleSheet.absoluteFillObject} />
+PostRideScreen.js:209:<LinearGradient colors={['#EEF2FF', '#FFFFFF', '#F5F3FF']} style={StyleSheet.absoluteFill} />
+ProfileScreen.js:76:<LinearGradient colors={['#6366F1', '#6366F1' + 'EE']} style={StyleSheet.absoluteFill} />
+ProfileScreen.js:110:<LinearGradient colors={['#6366F1', 'transparent']} style={StyleSheet.absoluteFill} />
+ProfileScreen.js:294:<LinearGradient colors={['#6366F1', '#333']} start={{
+ReceiveParcelScreen.js:93:<LinearGradient colors={['#1E3A5F', '#2E6B8A']} style={styles.avatar}>
+RideDetailsScreen.js:182:<LinearGradient colors={['#1E293B', '#0F172A']} style={styles.premiumRouteGradient} />
+RideDetailsScreen.js:246:<LinearGradient colors={['#10B981', '#059669']} start={{
+RideReviewScreen.js:77:<LinearGradient colors={['#6366F1', '#4F46E5']} style={styles.iconGradient}>
+RideReviewScreen.js:110:<LinearGradient colors={['#1E293B', '#0F172A']} style={StyleSheet.absoluteFill} start={{
+RideShareBookingScreen.js:75:<LinearGradient colors={['#EEF2FF', '#E0E7FF']} style={styles.routeGradient}>
+RideShareBookingScreen.js:139:<LinearGradient colors={['#6366F1', '#4F46E5']} style={styles.btnGradient}>
+RideShareScreen.js:220:<LinearGradient colors={['#F8FAFC', '#F1F5F9']} style={styles.calendarInner}>
+RideShareScreen.js:400:<LinearGradient colors={['#1F2937', '#111827']} style={styles.publishBtn}>
+SenderDashboardScreen.js:99:<LinearGradient colors={['#1E3A5F', '#2E6B8A']} style={styles.avatarImage}>
+SendParcelScreen.js:292:}} showsVerticalScrollIndicator={false} refreshControl={<RefreshControl refreshing={isRefreshing} onRefresh={refreshAll} tintColor="#1A1A1A" colors={["#1A1A1A"]} />}>
+SettingsScreen.js:32:<LinearGradient colors={['#1E3A5F', '#2E6B8A']} start={{
+TrackingScreen.js:360:<LinearGradient colors={['#FFF7ED', '#FFEDD5']} style={styles.approvalGrad}>
+TrackingScreen.js:389:<LinearGradient colors={['#F0FDF4', '#DCFCE7']} style={styles.rewardCard}>
+TripDetailsScreen.js:71:<LinearGradient colors={['#F1F5F9', '#E2E8F0']} style={styles.avatarPlaceholder}>
+TripRequestsScreen.js:65:{isProcessing ? <ActivityIndicator size="small" color="#FFF" /> : <LinearGradient colors={['#10B981', '#059669']} style={styles.approveGradient}>
+TrustScoreScreen.js:94:<LinearGradient colors={['#1A1A1A', '#333333']} style={styles.mainCard} start={{
+WalletScreen.js:159:<LinearGradient colors={['#0F0F0F', '#2C3E50']} style={styles.balanceCard} start={{
+WalletScreen.js:342:<LinearGradient colors={active ? ['#1A1A1A', '#444'] : ['#E0E0E0', '#F5F5F5']} style={[styles.bar, {
+WithdrawalSetupScreen.js:38:<LinearGradient colors={['#1E3A5F', '#2E6B8A']} style={StyleSheet.absoluteFillObject} start={{
+theme.js:2:colors: {

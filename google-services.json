@@ -1,0 +1,39 @@
+{
+    "project_info": {
+        "project_number": "483600433689",
+        "project_id": "p2p-express-8c0bb",
+        "storage_bucket": "p2p-express-8c0bb.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:483600433689:android:0d9afcaeb21e4fe8f4e088",
+                "android_client_info": {
+                    "package_name": "com.parcel.deliveryapp"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "483600433689-i4ooal10u0kbuqh5o178javdmeqe7njh.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyCQ4DSgrfBS448o3QwHmj_VrKJpDJAuHak"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "483600433689-i4ooal10u0kbuqh5o178javdmeqe7njh.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
